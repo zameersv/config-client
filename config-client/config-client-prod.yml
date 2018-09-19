@@ -1,3 +1,3 @@
-cofig-client:
+config-client:
   greeting: "Hello There prod!"
   url: "prod-url"
