@@ -1,0 +1,3 @@
+productApi:
+  greeting: "Hello There uat!"
+  url: "uat-url"

@@ -1,0 +1,3 @@
+productApi:
+  greeting: "Hello There!"
+  url: "default-url"

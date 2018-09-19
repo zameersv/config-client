@@ -1,0 +1,3 @@
+cofig-client:
+  greeting: "Hello There uat!"
+  url: "uat-url"
