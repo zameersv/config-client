@@ -1,0 +1,7 @@
+server:
+  port: 8083
+spring:
+  application:
+    name: config-client
+cofig-client:
+  greeting: "Hello There!"
